@@ -1,7 +1,7 @@
 Hello Everyone👋, I Am Mehmet 
 
 - ❔ I Am Nineteen Years Old.I'm Studying City And Regional Planning At The Karadeniz Technical University. I am currently learning software.
--⚡ I am highly motivated, and able to work well both independently and as part of a team.
+- ⚡ I am highly motivated, and able to work well both independently and as part of a team.
 
 
     
