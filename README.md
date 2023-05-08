@@ -1,7 +1,14 @@
 <h1 align="center">Hi 👋, I'm Mehmet</h1>
-<h3 align="center">A passionate frontend developer from Turkey</h3>
-<h3 align="center">I Am Nineteen Years Old.I'm Studying City And Regional Planning At The Karadeniz Technical University. I am currently learning software.</h3>
-<h3 align="center">I am highly motivated, and able to work well both independently and as part of a team.</h3>
+
+🔒 I Am Nineteen Years Old.I'm Studying City And Regional Planning At The Karadeniz Technical University. I am currently learning software.
+ 
+⚡ I am highly motivated, and able to work well both independently and as part of a team.
+
+👨‍💻 Problem solving, which is the solution point of problems in order to improve myself, excites me. I like to produce analytical solutions.
+
+🧳 I work as a React Front End Developer developer. And I follow the latest technologies.
+                         
+📫 How to reach me mehmetsindirac0@gmail.com
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=myagiz61&label=Profile%20views&color=0e75b6&style=flat" alt="myagiz61" /> </p>
