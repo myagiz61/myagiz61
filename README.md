@@ -1,5 +1,8 @@
 <h1 align="center">Hi 👋, I'm Mehmet</h1>
 <h3 align="center">A passionate frontend developer from Turkey</h3>
+<h3 align="center">I Am Nineteen Years Old.I'm Studying City And Regional Planning At The Karadeniz Technical University. I am currently learning software.</h3>
+<h3 align="center">I am highly motivated, and able to work well both independently and as part of a team.</h3>
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=myagiz61&label=Profile%20views&color=0e75b6&style=flat" alt="myagiz61" /> </p>
 
