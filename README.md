@@ -7,4 +7,4 @@ Hello Everyone👋, I Am Mehmet
     
  
                                                                                                                                                                                          
- [![Instagram Badge](https://img.shields.io/badge/-Instagram-C13584?style=flat-quare&labelColor=C13584&logo=instagram&logoColor=white&link=link)](https://www.instagram.com/mehmetyagiz_sndrc/)  [![Twitter](https://badgen.net/badge/icon/twitter?icon=twitter&label)](https://twitter.com/MehmetYagizS)
+ [![Instagram Badge](https://img.shields.io/badge/-Instagram-C13584?style=flat-quare&labelColor=C13584&logo=instagram&logoColor=white&link=link)](https://www.instagram.com/mehmetyagiz_sndrc/)  [![Twitter](https://badgen.net/badge/icon/twitter?icon=twitter&label)](https://twitter.com/MehmetYagizS)[![Js](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
